@@ -1,0 +1,203 @@
+"","Station","Num.Trips","Latitude","Longitude"
+"1","161 Bleecker St (South of Wellesley)",11594,43.6665988,-79.3732174
+"2","25 York St",20172,43.643667,-79.380414
+"3","424 Wellington St W",10153,43.6438342,-79.3966495
+"4","51 Parliament St",17139,43.65205,-79.362198
+"5","80 Clinton St (North of College)",2232,43.6562963,-79.4146634
+"6","Augusta Ave / Denison Sq",7328,43.6538727,-79.4017521
+"7","Augusta Ave / Dundas St W",19209,43.652175,-79.400913
+"8","Bathurst St / Dundas St W",7938,43.6522958,-79.4060126
+"9","Bathurst St / Fort York Blvd",7998,43.6387685,-79.40061
+"10","Bathurst St / Lennox St",3506,43.6638315,-79.4106835
+"11","Bathurst St / Queens Quay W",17671,43.6354,-79.3984
+"12","Bathurst Subway Station",2593,43.6660011,-79.4112152
+"13","Bay St / Albert St",36088,43.653264,-79.382458
+"14","Bay St / Bloor St W",36604,43.669429,-79.389326
+"15","Bay St / College St (East Side)",16036,43.660909,-79.390166
+"16","Bay St / Davenport Rd",1989,43.6730853,-79.3906658
+"17","Bay St / Queens Quay W (Ferry Terminal)",15179,43.641884,-79.377214
+"18","Bay St / St Joseph St",24783,43.665527,-79.387499
+"19","Bay St / Wellesley St W",33344,43.664088,-79.387095
+"20","Beverly  St / Dundas St W",12017,43.653814,-79.3938243
+"21","Beverly St / College St W",8149,43.6587134,-79.3958657
+"22","Bloor GO / UP Station/ Rail Path",1170,43.6580286,-79.4508945
+"23","Bloor St / Brunswick Ave",20167,43.665876,-79.407224
+"24","Bloor St W / Christie St",4220,43.6635591,-79.4184063
+"25","Bloor St W / Dundas St W",1594,43.6563348,-79.4524245
+"26","Bond St / Queen St E",21977,43.653236,-79.376716
+"27","Boston Ave / Queen St E",3722,43.6613414,-79.3387986
+"28","Bremner Blvd / Rees St",19414,43.641529,-79.386741
+"29","Bremner Blvd / Spadina Ave",26794,43.640903,-79.392895
+"30","Bridgeman Ave / Bathurst St",663,43.6743307,-79.4148223
+"31","Bridgeman Ave / Kendal Ave",1309,43.6754816,-79.4098212
+"32","Cariboo St / Rail Path",893,43.6666942,-79.4583445
+"33","Carlton St / Parliament St",3953,43.6642764,-79.3679725
+"34","Castle Frank Station",1121,43.6736049,-79.3688194
+"35","Central Tech  (Harbord St)",1977,43.6619996,-79.4088813
+"36","Central Tech  (Harbord St)",1977,43.6639967,-79.4087556
+"37","Cherry St / Distillery Ln",2820,43.6503677,-79.3569845
+"38","Cherry St / Mill St",4759,43.6513499,-79.3573594
+"39","Chester Station",1405,43.6782356,-79.3524545
+"40","Christie St / Benson Ave (Wychwood Barns)",1536,43.6799824,-79.4240684
+"41","Church St  / Wood St",6069,43.6628044,-79.3797312
+"42","Church St / Alexander St",23604,43.6636,-79.3806
+"43","Church St / Bloor St E",19930,43.671389,-79.382919
+"44","Claremont St / Dundas St W",2798,43.6511693,-79.4115844
+"45","College Park South",34203,43.659777,-79.382767
+"46","College St W / Borden St",4557,43.6549406,-79.4168398
+"47","College St W / Crawford St",4133,43.6532372,-79.4182957
+"48","College St W / Huron St",10897,43.6515678,-79.4101974
+"49","College St W / Major St",9185,43.6549406,-79.4168398
+"50","College St W / Markham St",5085,43.6570289,-79.4092728
+"51","Danforth Ave / Aldridge Ave",761,43.6847323,-79.3171844
+"52","Danforth Ave / Barrington Ave",365,43.6884404,-79.3005649
+"53","Danforth Ave / Coxwell Ave",1090,43.6833563,-79.3235888
+"54","Danforth Ave / Ellerbeck St",2083,43.676679,-79.356409
+"55","Danforth Ave / Gough Ave",1469,43.6786924,-79.3461056
+"56","Danforth Ave / Lamb Ave",969,43.6821189,-79.3293481
+"57","Danforth Ave / Westlake Ave",247,43.6874331,-79.3052146
+"58","Davenport Rd / Avenue Rd",1352,43.6746978,-79.3965732
+"59","Davenport Rd / Bathurst St",682,43.6766965,-79.4157557
+"60","Davenport Rd / Bedford Rd",1275,43.6743644,-79.3998092
+"61","Davenport Rd / Christie St",934,43.6755784,-79.4230446
+"62","Dockside Dr / Queens Quay E (Sugar Beach)",9460,43.6443346,-79.3678102
+"63","Donlands Station",1080,43.6808917,-79.3377455
+"64","Dufferin St / Bloor St",1397,43.6598576,-79.4353285
+"65","Dufferin St / Sylvan Av (Dufferin Grove Park)",1494,43.6565553,-79.4327637
+"66","Dundas St / Yonge St",43336,43.656094,-79.381484
+"67","Dundas St E / Broadview Ave",2864,43.6624391,-79.3513456
+"68","Dundas St E / Parliament St",7292,43.6594276,-79.3659956
+"69","Dundas St E / Regent Park Blvd",7751,43.6603557,-79.3618038
+"70","Dundas St W / Crawford St",4328,43.6500648,-79.4170615
+"71","Dundas St W / Edna Ave",787,43.6572627,-79.4526909
+"72","Dundonald St / Church St",6539,43.6667003,-79.3813459
+"73","East Liberty St / Pirandello St",8223,43.6386723,-79.4139607
+"74","Edward St / Yonge St",22094,43.656729,-79.382736
+"75","Elizabeth St / Edward St (Bus Terminal)",9339,43.6560524,-79.3846762
+"76","Essex St / Christie St",1314,43.6683553,-79.4202547
+"77","Euclid Ave / Bloor St W",5661,43.664332,-79.4148618
+"78","Exhibition GO (Atlantic Ave)",2042,43.6358793,-79.4187734
+"79","Fort York Blvd / Capreol Crt",29959,43.639832,-79.395954
+"80","Fort York Blvd / Garrison Rd",3351,43.6374334,-79.4061926
+"81","Front St / Bay St (North Side)",6182,43.6461463,-79.3793173
+"82","Front St / Yonge St (Hockey Hall of Fame)",30679,43.646144,-79.377962
+"83","Front St E / Cherry St",2975,43.6526324,-79.3580917
+"84","Front St W / Blue Jays Way",29395,43.643473,-79.390477
+"85","Gerrard St E / River St",1818,43.6636944,-79.3592313
+"86","Glen Edyth Dr / Davenport Rd",1848,43.6781484,-79.4048738
+"87","Gould St / Mutual St",31784,43.6582,-79.3768
+"88","Hanna Ave / Liberty St",3076,43.6385083,-79.4195451
+"89","Harbord St / Clinton St",2128,43.6602673,-79.4158311
+"90","Hayter St / Laplante Ave",5670,43.6590542,-79.3859663
+"91","Howard St / Sherbourne St",4856,43.6712495,-79.3764212
+"92","HTO Park (Queen's Quay W)",9184,43.6375849,-79.3884382
+"93","Huron St / Harbord St",12775,43.6637,-79.400053
+"94","Jarvis St / Carlton St",16250,43.66207,-79.37617
+"95","Jarvis St / Dundas St E",3631,43.6570469,-79.3745394
+"96","Jarvis St / Isabella St",18347,43.669192,-79.379128
+"97","Jimmie Simpson Park (Queen St E)",2394,43.6604409,-79.3453882
+"98","Jimmie Simpson Park (Queen St E)",2394,43.6612075,-79.3447934
+"99","Kendal Ave / Bernard Ave",3291,43.671699,-79.4083388
+"100","Kendal Ave / Spadina Rd",2898,43.6703049,-79.4052872
+"101","King St E / Jarvis St",26817,43.650325,-79.372287
+"102","King St E / River St",5171,43.656868,-79.3561681
+"103","King St W / Bay St (East Side)",7529,43.6487191,-79.3796276
+"104","King St W / Bay St (West Side)",10723,43.6487191,-79.3796276
+"105","King St W / Douro St",2596,43.641106,-79.4166062
+"106","King St W / Fraser Ave",864,43.6394623,-79.4248104
+"107","King St W / Joe Shuster Way",1423,43.6397139,-79.4235468
+"108","King St W / Spadina Ave",44044,43.645323,-79.395003
+"109","King St W / Stafford St",4686,43.6422906,-79.4107175
+"110","King St W / Tecumseth St",8093,43.6433939,-79.4052578
+"111","Landsdowne Subway Green P",1791,43.6647888,-79.4635996
+"112","Lansdowne Ave / Whytock Ave",430,43.6538351,-79.4411144
+"113","Liberty St / Fraser Ave Green P",1991,43.6416978,-79.4236547
+"114","Lower Jarvis St / The Esplanade",19638,43.647992,-79.370907
+"115","Lower Sherbourne St / The Esplanade",6087,43.6490352,-79.3672694
+"116","Macpherson Ave / Spadina Rd",2460,43.6758521,-79.4074745
+"117","Madison Ave / Bloor St W",19569,43.667158,-79.402761
+"118","Margueretta St / College St W",895,43.651566,-79.437566
+"119","Marlborough Ave / Yonge St",989,43.679879,-79.3907295
+"120","Mary McCormick Rec Centre (Sheridan Ave)",1407,43.6474373,-79.4328546
+"121","McGill St / Church St",4510,43.660678,-79.3788522
+"122","Metro Hall Plaza",21646,43.645859,-79.38783
+"123","Mill St / Tannery Rd",1962,43.652154,-79.3543446
+"124","Mortimer Ave / Coxwell Ave",765,43.6905839,-79.326557
+"125","Navy Wharf Ct / Bremner Blvd",16633,43.640722,-79.391051
+"126","Nelson St / Duncan St",2702,43.6488016,-79.388923
+"127","Niagara St / Richmond St W",25319,43.64534,-79.409597
+"128","Niagara St / Tecumseth St",1833,43.641387,-79.4044383
+"129","Ontario Place Blvd / Remembrance Dr",4722,43.6312174,-79.4102496
+"130","Ossington Ave / Bloor St W",3489,43.6619827,-79.4256242
+"131","Ossington Ave / College St W",668,43.6543876,-79.4226798
+"132","Ossington Ave / Harrison St",1672,43.650949,-79.4213583
+"133","Palmerston Ave / Vermont Ave",1752,43.6715996,-79.4163406
+"134","Pape Subway Green P",536,43.6795523,-79.3453774
+"135","Parliament St / Aberdeen Ave",3025,43.6650445,-79.3682814
+"136","Parliament St / Bloor St E",1068,43.6720333,-79.370728
+"137","Parliament St / Gerrard St",13233,43.661149,-79.366648
+"138","Phoebe St / Spadina Ave",33009,43.650033,-79.396555
+"139","Princess St / Adelaide St",13846,43.6523981,-79.3673842
+"140","Queen St E / Berkely St",1742,43.655317,-79.3657508
+"141","Queen St E / George St (Moss Park)",3068,43.6539577,-79.372065
+"142","Queen St E / Sackville St",1482,43.6562647,-79.361453
+"143","Queen St W / Close Ave",2749,43.6407312,-79.4359476
+"144","Queen St W / Cowan Ave",1661,43.6413253,-79.4331243
+"145","Queen St W / Dovercourt Rd",4934,43.6434786,-79.4223717
+"146","Queen St W / Gladstone Ave",3319,43.6425333,-79.4271162
+"147","Queen St W / Ossington Ave",5446,43.644171,-79.4188508
+"148","Queen St W / Portland St",15279,43.647714,-79.4014195
+"149","Queen St W / Shaw St",13401,43.644524,-79.416519
+"150","Queen St W / Spadina Ave",23165,43.649147,-79.395504
+"151","Queen St W / York St (City Hall)",6606,43.6534399,-79.3840901
+"152","Queens Park / Bloor St W",22021,43.668327,-79.39355
+"153","Queens Quay / Yonge St",2844,43.6419596,-79.3746697
+"154","Queens Quay W / Dan Leckie Way",15939,43.636533,-79.395854
+"155","Queens Quay W / Lower Simcoe St",10653,43.6395925,-79.3827816
+"156","Richmond St E / Jarvis St Green P",6129,43.6524382,-79.3766754
+"157","Riverdale Park North (Broadview Ave)",1955,43.6707898,-79.3561254
+"158","Riverdale Park South (Broadview Ave)",2144,43.6707898,-79.3561254
+"159","Roxton Rd / Harbord St",1519,43.6587949,-79.4230682
+"160","Rusholme Park Cres / College St W",2023,43.6529203,-79.4296335
+"161","Salem Ave / Bloor St W",1998,43.6606625,-79.4316443
+"162","Scott St / The Esplanade",23265,43.64656,-79.375274
+"163","Seaton St / Dundas St E",3579,43.6586458,-79.3694957
+"164","Sherbourne St / Carlton St (Allan Gardens)",7977,43.6617585,-79.3746818
+"165","Sherbourne St / Wellesley St",32318,43.6673,-79.374
+"166","Simcoe St / Dundas St W",24381,43.653743,-79.38882
+"167","Simcoe St / Queen St W",34635,43.650858,-79.387582
+"168","Simcoe St / Wellington St W",43488,43.645533,-79.3854
+"169","Spadina Ave / Sussex Ave",14784,43.664137,-79.402496
+"170","Spadina Ave / Willcocks St",2833,43.6612715,-79.4014858
+"171","St George St / Bloor St W",22389,43.667333,-79.399429
+"172","St George St / Hoskin Ave",6390,43.66408,-79.398439
+"173","Stephenson Ave / Main St",495,43.6877284,-79.301609
+"174","Sterling Rd / Dundas St W",1735,43.6506776,-79.4430582
+"175","Strachan Ave / Princes' Blvd",2963,43.6348654,-79.409077
+"176","Sumach St / Carlton St (Riverdale Farm)",2056,43.6671213,-79.3611251
+"177","Summerhill Station",2323,43.6822899,-79.3907744
+"178","Taddle Creek Park",1646,43.6698599,-79.3984431
+"179","Ted Rogers Way / Bloor St E",6324,43.6716033,-79.3805398
+"180","Temperance St / Yonge St",26179,43.650855,-79.379492
+"181","Trinity St /Front St E",7216,43.6520867,-79.3603354
+"182","Ulster St / Bathurst St",2051,43.6598108,-79.409058
+"183","Union Station",30397,43.645566,-79.379438
+"184","University Ave / College St",20771,43.659226,-79.390213
+"185","University Ave / Elm St",16807,43.656518,-79.389099
+"186","University Ave / Gerrard St W",17260,43.657763,-79.389165
+"187","University Ave / King St W",29167,43.648093,-79.384749
+"188","Victoria St / Gould St (Ryerson University)",7771,43.6576585,-79.3788017
+"189","Wellesley St / Queen's Park Cres",6096,43.6635981,-79.3906219
+"190","Wellesley St E / Yonge St Green P",8508,43.664929,-79.3845625
+"191","Wellington St W / Bay St",40120,43.647331,-79.379673
+"192","Wellington St W / Portland St",7035,43.6431913,-79.3995549
+"193","Wellington St W / Stafford St",1363,43.6410063,-79.4102226
+"194","Widmer St / Adelaide St",38207,43.647145,-79.391479
+"195","Willcocks St / St George St",26631,43.662237,-79.397716
+"196","Woodbine Subway Green P (Cedarvale Ave)",325,43.686833,-79.3110491
+"197","Yarmouth Rd / Christie St",1677,43.67002,-79.4209268
+"198","Yonge St / Aylmer Ave",1362,43.6755882,-79.3889658
+"199","Yonge St / Harbour St",7329,43.6432796,-79.3754993
+"200","Yonge St / Wood St",6201,43.6620286,-79.383353
+"201","Yonge St / Yorkville Ave",4226,43.6719226,-79.3874532
+"202","York St / Queens Quay W",35402,43.640132,-79.380464
